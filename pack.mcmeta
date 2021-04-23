@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "name":"zypsdatapack",
+        "id":"zyps",
+        "pack_format":6,
+        "authors":"Zyptor",
+        "version":"1.0",
+        "description":"Origins reworks"
+    }
+}

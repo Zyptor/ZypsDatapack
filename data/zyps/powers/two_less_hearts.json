@@ -1,0 +1,10 @@
+{
+  "type": "origins:attribute",
+    "modifier": {
+      "attribute": "minecraft:generic.max_health",
+      "value": -4.0,
+      "operation": "addition"
+    },
+  "name": "Less Health",
+  "description": "You have 2 less hearts, you're simular to a bee but still built a bit different."
+}

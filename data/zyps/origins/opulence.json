@@ -1,0 +1,15 @@
+{
+	"powers": [
+		"origins:cat_vision",
+		"origins:more_exhaustion",
+		"zyps:break_speed",
+		"zyps:strong_arms",
+		"zyps:cant_be_outside",
+		"zyps:weak_skin"
+	],
+	"icon": "minecraft:diamond",
+	"order": 1,
+	"impact": 3,
+	"name": "Opulence",
+	"description":"Zyptors own Origin. As a person grown up to achive an abundance of wealth, you have it easier doing so, but everything else needed to survive is a bit harder. Not finnished."
+}
