@@ -21,7 +21,8 @@
                 "effect": {
                     "effect":"minecraft:hero_of_the_village",
                     "duration": 3600,
-                    "amplifier": 0
+                    "amplifier": 0,
+                    "show_particles": false
                 }
         },
         "else_action": {
@@ -30,12 +31,14 @@
                     {
                         "effect":"minecraft:haste",
                         "duration": 4800,
-                        "amplifier": 1
+                        "amplifier": 1,
+                        "show_particles": false
                     },
                     {
                         "effect":"minecraft:strength",
                         "duration": 200,
-                        "amplifier": 0
+                        "amplifier": 0,
+                        "show_particles": false
                     }
                 ]
         }
