@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "origins": [
+        "zyps:avian_v2",
+        "zyps:blazeborn_v2",
+        "zyps:monke_v2"
+    ]
+}

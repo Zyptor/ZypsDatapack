@@ -1,0 +1,10 @@
+{
+    "type": "origins:modify_harvest",
+    "allow": true,
+    "block_condition": {
+        "type": "origins:in_tag",
+        "tag": "zyps:natural_stone"
+    },
+    "name":"Strong Arms",
+    "description":"Being used to mining for wealth, you're able to brake natural stone."
+}

@@ -1,0 +1,15 @@
+{
+    "type":"origins:climbing",
+    "condition": {
+        "type":"origins:block_collision",
+            "offset_x": 1,
+            "offset_y": 0,
+            "offset_z": 1
+    },
+    "allow_holding": true,
+    "hold_condition": {
+        "type":"origins:exposed_to_sky"
+    },
+    "name":"Monke Climb",
+    "description":"You can now climb up anything, and you can also grapple the block if they're exposed to the sky."
+}
