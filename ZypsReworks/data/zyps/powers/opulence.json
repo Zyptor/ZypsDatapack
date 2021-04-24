@@ -17,7 +17,7 @@
             ]
         },
         "if_action": {
-            "type":"apply_effect",
+            "type":"origins:apply_effect",
                 "effect": {
                     "effect":"minecraft:hero_of_the_village",
                     "duration": 3600,
@@ -25,7 +25,7 @@
                 }
         },
         "else_action": {
-            "type":"apply_effect",
+            "type":"origins:apply_effect",
                 "effects": [
                     {
                         "effect":"minecraft:haste",
