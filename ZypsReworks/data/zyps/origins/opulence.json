@@ -2,10 +2,10 @@
 	"powers": [
 		"origins:cat_vision",
 		"origins:more_exhaustion",
+		"zyps:opulence",
 		"zyps:break_speed",
 		"zyps:strong_arms",
-		"zyps:cant_be_outside",
-		"zyps:weak_skin"
+		"zyps:cant_be_outside"
 	],
 	"icon": "minecraft:diamond",
 	"order": 1,
