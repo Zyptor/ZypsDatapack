@@ -7,7 +7,7 @@
             "conditions": [
                 {
                     "type":"origins:xp_levels",
-                    "comparisson":">=",
+                    "comparison":">=",
                     "compare_to": 30
                 },
                 {
