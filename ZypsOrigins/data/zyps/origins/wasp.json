@@ -1,0 +1,16 @@
+{
+	"powers": [
+		"origins:slow_falling",
+        "origins:carnivore",
+		"zyps:poisonous",
+		"zyps:two_less_hearts",
+		"zyps:flight",
+		"zyps:death",
+		"zyps:rain"
+	],
+	"icon": "minecraft:beehive",
+	"order": 7,
+	"impact": 2,
+	"name": "Wasp",
+	"description":"Zyptors tiny remake of sakisiil's bee. Just with a more offensive style."
+}

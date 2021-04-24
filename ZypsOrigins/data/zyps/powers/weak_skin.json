@@ -1,0 +1,20 @@
+{
+    "type": "origins:action_over_time",
+    "entity_action": {
+        "type": "origins:if_else",
+        "condition": {
+            "type": "origins:exposed_to_sun"
+        },
+        "if_action": {
+            "type": "origins:set_on_fire",
+            "duration": 2
+        },
+        "else_action": {
+            "type": "origins:extinguish"
+        }
+    },
+    "interval": 200,
+    
+    "name": "Weak skin",
+    "description": "Not often being exposed to the sun has made your skin extremly weak. It might catch on fire staying out too long in the sun."
+}
