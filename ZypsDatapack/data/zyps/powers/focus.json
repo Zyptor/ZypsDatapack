@@ -21,7 +21,7 @@
                     } 
                 },
                 {
-                    "type":"origins:exposed_to_sun",
+                    "type":"origins:exposed_to_sky",
                     "inverted": true
                 }
             ]
