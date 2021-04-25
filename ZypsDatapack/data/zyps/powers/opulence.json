@@ -1,47 +1,7 @@
 {
     "type":"origins:active_self",
     "entity_action": {
-        "type":"origins:if_else",
-        "condition":{
-            "type":"origins:and",
-            "conditions": [
-                {
-                    "type":"origins:xp_levels",
-                    "comparison":">=",
-                    "compare_to": 30
-                },
-                {
-                    "type":"origins:ingredient",
-                    "item":"minecraft:emerald"
-                }
-            ]
-        },
-        "if_action": {
-            "type":"origins:apply_effect",
-                "effect": {
-                    "effect":"minecraft:hero_of_the_village",
-                    "duration": 3600,
-                    "amplifier": 0,
-                    "show_particles": false
-                }
-        },
-        "else_action": {
-            "type":"origins:apply_effect",
-                "effects": [
-                    {
-                        "effect":"minecraft:haste",
-                        "duration": 4800,
-                        "amplifier": 1,
-                        "show_particles": false
-                    },
-                    {
-                        "effect":"minecraft:strength",
-                        "duration": 200,
-                        "amplifier": 0,
-                        "show_particles": false
-                    }
-                ]
-        }
+        
     },
     "cooldown": 6000,
     "sprite_location": "https://github.com/apace100/origins-fabric/blob/master/src/main/resources/assets/origins/textures/gui/community/spiderkolo/resource_bar_01.png",
