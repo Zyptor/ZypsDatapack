@@ -1,5 +1,5 @@
 {
-    "type":"origins:active_self",
+    "type": "origins:active_self",
     "entity_action": {
         
     },
@@ -8,6 +8,6 @@
     "hud_render": {
         "bar_index": 1
     },
-    "name":"Focus",
-    "description":"You get faster at mining and you get stronger OR you're better at trading. It all depends on your experience and what item you're holding."
+    "name": "Focus",
+    "description": "You get faster at mining and you get stronger OR you're better at trading. It all depends on your experience and what item you're holding."
 }
