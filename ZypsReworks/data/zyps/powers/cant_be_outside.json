@@ -12,13 +12,6 @@
 			"show_icon": true
 		},
 		{
-			"effect": "minecraft:hunger",
-			"amplifier": 3,
-			"is_ambient": true,
-			"show_particles": false,
-			"show_icon": true
-		},
-		{
 			"effect": "minecraft:weakness",
 			"amplifier": 3,
 			"is_ambient": true,
