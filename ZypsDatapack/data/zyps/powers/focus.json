@@ -19,6 +19,10 @@
                             "item": "minecraft:emerald"
                         }
                     } 
+                },
+                {
+                    "type":"origins:exposed_to_sun",
+                    "inverted": true
                 }
             ]
         },
@@ -36,23 +40,23 @@
             "effects": [
                 {
                     "effect": "minecraft:haste",
-                    "duration": 4800,
+                    "duration": 1200,
                     "amplifier": 1,
                     "show_particles": false
                 },
                 {
                     "effect": "minecraft:strength",
-                    "duration": 200,
+                    "duration": 100,
                     "amplifier": 0,
                     "show_particles": false
                 }
             ]
         }
     },
-    "cooldown": 6000,
+    "cooldown": 2400,
     "hud_render": {
         "sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_01.png",
-        "bar_index": 2
+        "bar_index": 1
     },
     "key": {
         "key":"key.origins.primary_active",
