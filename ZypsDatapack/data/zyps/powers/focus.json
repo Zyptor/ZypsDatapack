@@ -51,8 +51,12 @@
     },
     "cooldown": 6000,
     "hud_render": {
-        "sprite_location": "https://github.com/apace100/origins-fabric/blob/master/src/main/resources/assets/origins/textures/gui/community/spiderkolo/resource_bar_01.png",
-        "bar_index": 1
+        "sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_01.png",
+        "bar_index": 2
+    },
+    "key": {
+        "key":"key.origins.primary_active",
+        "continuous": false
     },
     "name": "Focus",
     "description": "You get faster at mining and you get stronger OR you're better at trading. It all depends on your experience and what item you're holding."
