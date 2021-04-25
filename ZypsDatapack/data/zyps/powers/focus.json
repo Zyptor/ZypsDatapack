@@ -1,7 +1,21 @@
 {
     "type": "origins:active_self",
     "entity_action": {
-        
+        "type":"origins:apply_effect",
+        "effects": [
+            {
+                "effect":"minecraft:haste",
+                "duration": 4800,
+                "amplifier": 1,
+                "show_particles": false
+            },
+            {
+                "effect":"minecraft:strength",
+                "duration": 200,
+                "amplifier": 0,
+                "show_particles": false
+            }
+        ]
     },
     "cooldown": 6000,
     "hud_render": {
