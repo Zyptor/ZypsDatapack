@@ -5,4 +5,4 @@ If you wanna try out my full datapack replacing the normal origins with my rewor
 
 If you only wanna play with my own origins or my own reworks go ahead and download ZypsOrigins.zip and/or ZypsReworks respectivly. I think their names says it all but for extra clarification, ZypsOrigins adds my own origins too all the others and ZypsReworks adds my reworks to all the other origins.
 
-Currently not finnished, will be in future versions coming soon!
+Currently playable but not finnished, will be soon in a future version!
