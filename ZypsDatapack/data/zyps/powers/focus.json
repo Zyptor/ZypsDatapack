@@ -19,10 +19,6 @@
                             "item": "minecraft:emerald"
                         }
                     } 
-                },
-                {
-                    "type":"origins:exposed_to_sky",
-                    "inverted": true
                 }
             ]
         },
