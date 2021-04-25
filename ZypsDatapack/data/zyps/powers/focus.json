@@ -12,10 +12,7 @@
                 },
                 {
                     "type": "origins:equipped_item",
-                    "equipment_slot": [
-                        "mainhand",
-                        "offhand"
-                    ],
+                    "equipment_slot": "mainhand",
                     "item_condition": {
                         "ingredient": {
                             "item": "minecraft:emerald"
