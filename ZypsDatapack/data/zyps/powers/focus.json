@@ -8,7 +8,7 @@
                 {
                     "type": "origins:xp_levels",
                     "comparison": ">=",
-                    "compare_to": 30
+                    "compare_to": 50
                 },
                 {
                     "type": "origins:equipped_item",
@@ -30,7 +30,7 @@
             "type": "origins:apply_effect",
             "effect": {
                 "effect": "minecraft:hero_of_the_village",
-                "duration": 3600,
+                "duration": 600,
                 "amplifier": 0,
                 "show_particles": false
             }
@@ -41,7 +41,7 @@
                 {
                     "effect": "minecraft:haste",
                     "duration": 1200,
-                    "amplifier": 1,
+                    "amplifier": 2,
                     "show_particles": false
                 },
                 {
