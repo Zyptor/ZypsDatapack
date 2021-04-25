@@ -11,11 +11,16 @@
                     "compare_to": 30
                 },
                 {
-                    "type": "origins:ingredient",
-                    "ingredient": {
-                        "item": "minecraft:emerald"
-                    }
-                    
+                    "type": "origins:equipped_item",
+                    "equipment_slot": [
+                        "mainhand",
+                        "offhand"
+                    ],
+                    "item_condition": {
+                        "ingredient": {
+                            "item": "minecraft:emerald"
+                        }
+                    } 
                 }
             ]
         },
@@ -29,16 +34,16 @@
             }
         },
         "else_action": {
-            "type":"origins:apply_effect",
+            "type": "origins:apply_effect",
             "effects": [
                 {
-                    "effect":"minecraft:haste",
+                    "effect": "minecraft:haste",
                     "duration": 4800,
                     "amplifier": 1,
                     "show_particles": false
                 },
                 {
-                    "effect":"minecraft:strength",
+                    "effect": "minecraft:strength",
                     "duration": 200,
                     "amplifier": 0,
                     "show_particles": false
