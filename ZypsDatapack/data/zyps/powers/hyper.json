@@ -7,7 +7,6 @@
                 "duration": 200,
                 "amplifier": 3
         }
-
     },
     "cooldown": 200,
     "hud_render": {
