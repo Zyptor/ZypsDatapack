@@ -1,0 +1,10 @@
+{
+    "powers": [
+        ""
+    ],
+    "icon": "minecraft:lily_pad",
+	"order": 1,
+	"impact": 1,
+    "name":"Frog",
+    "Description":"Zyps own origin, Frog. You're a better swimmer and jumper, but a bit weaker then the rest."
+}
