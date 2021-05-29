@@ -3,6 +3,7 @@
         "origins:fall_immunity",
         "origins:swim_speed",
         "origins:carnivore",
+        "zyps:five_less_hearts",
         "zyps:high_jump"
     ],
     "icon": "minecraft:lily_pad",
