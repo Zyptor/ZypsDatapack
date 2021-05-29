@@ -3,6 +3,8 @@
         "origins:fall_immunity",
         "origins:swim_speed",
         "origins:carnivore",
+        "origins:water_vision",
+        "origins:aquatic",
         "zyps:frog_size",
         "zyps:five_less_hearts",
         "zyps:high_jump"
@@ -11,5 +13,5 @@
 	"order": 1,
 	"impact": 1,
     "name":"Frog",
-    "description":"Zyps own origin, Frog. You're a better swimmer and jumper, but a bit weaker then the rest."
+    "description":"Zyps own origin, Frog. You're a better swimmer and jumper but a bit weaker then the rest."
 }
