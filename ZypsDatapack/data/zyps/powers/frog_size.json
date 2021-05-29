@@ -2,7 +2,7 @@
     "type":"origins:action_on_callback",
         "entity_action_chosen": {
             "type":"origins:execute_command",
-            "command": "scale set 0.75",
+            "command": "scale set 0.65",
             "permission_level": 4
         },
         "entity_action_lost": {
