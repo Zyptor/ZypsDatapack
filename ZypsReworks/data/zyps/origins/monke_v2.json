@@ -2,12 +2,13 @@
 	"powers": [
 		"origins:vegetarian",
 		"origins:water_vulnerability",
-		"zyps:sleep_in_trees",
-		"zyps:monke_climb"
+		"origins:climbing",
+		"originsplus:grapple",
+		"zyps:sleep_in_trees"
 	],
 	"icon": "minecraft:apple",
 	"order": 3,
 	"impact": 2,
     "name": "Monke V2",
-    "description": "Zyptors rework of lochnessdragon1's Monke. Changed grapple to launch, added real grappling and climbing. Not finnished."
+    "description": "Zyptors rework of lochnessdragon1's Monke. Added origins climbing as well."
 }
