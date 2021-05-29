@@ -1,6 +1,7 @@
 {
     "powers": [
         "origins:fall_immunity",
+        "origins:swim_speed",
         "zyps:high_jump"
     ],
     "icon": "minecraft:lily_pad",
