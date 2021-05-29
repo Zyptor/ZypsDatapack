@@ -1,6 +1,6 @@
 {
     "powers": [
-        ""
+        "zyps:high_jump"
     ],
     "icon": "minecraft:lily_pad",
 	"order": 1,
